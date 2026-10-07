@@ -1,0 +1,10 @@
+{
+  "name": "中国地理・都市クイズ",
+  "short_name": "中国地理クイズ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#2c3e50",
+  "lang": "ja",
+  "icons": []
+}
